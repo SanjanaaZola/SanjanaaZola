@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 - 🔭 I’m currently working on Color Gen.
 - 🌱 I’m currently learning ReactJs.
 - 👯 I’m looking to collaborate on any projects I find interesting.
