@@ -8,5 +8,5 @@
 - 💬 Ask me about AWS, Cloud Concepts, JS and C++.
 - 📫 How to reach me: LinkedIn:- [Sanjanaa Zola](https://www.linkedin.com/in/sanjanaa-zola-83a603157/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanjanaaZola&&show_icons=true&title_color=ffffff&icon_color=d1e2fb&text_color=ffffff&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=SanjanaaZola&&show_icons=true&title_color=f9a19a&icon_color=f44336&text_color=ffffff&bg_color=151515">
 
