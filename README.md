@@ -2,7 +2,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🔭 I’m currently working on projects using ReactJs.
+- 🔭 I’m currently working on projects using Java & Springboot.
 - 👯 I’m looking to collaborate on any projects I find interesting.
 - 💬 Ask me about AWS, Cloud Concepts, JS and C++.
 - 📫 How to reach me: LinkedIn:- [Sanjanaa Zola](https://www.linkedin.com/in/sanjanaa-zola-83a603157/)
